@@ -20,7 +20,7 @@ The application not only detects the plant disease but also provides the user wi
 
 ### 1. Plant Disease Prediction & Management
 
-For plant disease prediction and classification, a convolution neural network (sequential model) was built using python.Next, we calculated our model accuracy and were able to achieve an accuracy of 98.75%. Our next step was to export the deep learning model as a .tflite file from jupyter notebook and embed it in our application. 
+For plant disease prediction and classification, a convolution neural network (sequential model) was built using python. Next, we calculated our model accuracy and were able to achieve an accuracy of 98.75%. Then, we exported our deep learning model as a .tflite file from jupyter notebook and embedded it into the android application. 
 
 Our app is user-friendly and has been built keeping in mind the difficulties that the farmers face and provides them the solution as well. Planto focuses on the condition (diseases they may carry) of leaves. It scans the leaves and informs the farmer about any discrepancy that may arise in a long run and help them save their plantation from getting destroyed. Our app also guides users and shows the remedies or methods that should be adopted in order to deal with the situation at hand. It also states the symptoms that help farmers to understand more about the problem and what all can be done to protect their plants. It gives them a heads up about it and highlights the precautionary steps that the farmer can consider to prevent the disease altogether. A user can also keep track of their prediction history using the plant disease prediction history screen.
 
