@@ -14,7 +14,7 @@ This project has been developed for the agricultural sector. Everywhere, agricul
 
 ## Introduction
 
-The application not only detects the plant disease but also provides the user with information on how to fix the same. Along with these base functionalities the application offers more assistance to the user by giving a library of agricultural products like fertilizers and equipment that they can purchase from the marketplace tab built-in the application. These features can come in handy to the farmers who need immediate help and can help save their crops benefiting everyone that is connected in this nation-wide food chain.
+The application not only detects the plant disease but also provides the user with information on how to fix the same. Along with these base functionalities the application offers more assistance to the user by giving a library of agricultural products like fertilizers and equipment that they can purchase from the marketplace tab built-in the application. These features can come in handy to the farmers who need immediate help and can help save their crops benefiting everyone that is connected in this world-wide food chain.
 
 ## Features
 
