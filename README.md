@@ -18,6 +18,8 @@ This project has been developed for the agricultural sector. Everywhere, agricul
 
 The application not only detects the plant disease but also provides the user with information on how to fix the same. Along with these base functionalities the application offers more assistance to the user by giving a library of agricultural products like fertilizers and equipment that they can purchase from the marketplace tab built-in the application. These features can come in handy to the farmers who need immediate help and can help save their crops benefiting everyone that is connected in this world-wide food chain.
 
+![alt text](screenshots/5.png)
+
 ## Features
 
 ### 1. Plant Disease Prediction & Management
@@ -26,13 +28,19 @@ For plant disease prediction and classification, a convolution neural network (s
 
 Our app is user-friendly and has been built keeping in mind the difficulties that the farmers face and provides them the solution as well. Planto focuses on the condition (diseases they may carry) of leaves. It scans the leaves and informs the farmer about any discrepancy that may arise in a long run and help them save their plantation from getting destroyed. Our app also guides users and shows the remedies or methods that should be adopted in order to deal with the situation at hand. It also states the symptoms that help farmers to understand more about the problem and what all can be done to protect their plants. It gives them a heads up about it and highlights the precautionary steps that the farmer can consider to prevent the disease altogether. A user can also keep track of their prediction history using the plant disease prediction history screen.
 
+![alt text](screenshots/2.png)
+
 ### 2. Customer Marketplace
 
 Once the customer gets informed about the said disease he/she can purchase the said fertilizer or other equipment needed for the proper treatment of the plant disease. A user has access to all the goods that a seller has listed on his or her online store. You can see each product's description and add them to your cart and then place an order. There is also an order history screen where all the orders, that have been placed are shown.
 
+![alt text](screenshots/3.png)
+
 ### 3. Merchant's Panel
 
 In the seller category, any person (manufacturer or merchant) who wishes to sell their agricultural material can add any equipment/fertilizers which they want to sell. All the data is stored in the firebase firestore storage and then displayed in the marketplace screen which is only visible to the customers who want to buy them. The seller can also edit or delete his/her marketplace according to their needs.
+
+![alt text](screenshots/4.png)
 
 ## Future Work
 
