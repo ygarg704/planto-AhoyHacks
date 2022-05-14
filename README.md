@@ -76,7 +76,7 @@ In the seller category, any person (manufacturer or merchant) who wishes to sell
 3. Once the command has been execued, go in the folder named `lib` and open the file named `main.dart`.
 4. After opening the file, run the command `flutter run` in the terminal to start the android application.
 
-Note: For testing the application, some images of each class are stored in `test_images` folder. Download those images to test out the application.
+Note: For testing the application, some images are stored in `test_images` folder. Download those images to test out the application.
 
 
 💻 Made by - Aditya Chaudhary | Arpit Masih | Yash Garg
