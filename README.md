@@ -89,4 +89,4 @@ In the seller category, any person (manufacturer or merchant) who wishes to sell
 Note: For testing the application, some images are stored in `test_images` folder. Download those images to test out the application.
 
 
-💻 Made by - Aditya Chaudhary | Arpit Masih | Yash Garg
+⚙ Made by - Aditya Chaudhary | Arpit Masih | Yash Garg
