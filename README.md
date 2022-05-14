@@ -4,6 +4,8 @@ Watch the video [here]()
 
 For instructions on how to run the project locally, click [here](#Instructions-to-run-the-project-locally)
 
+![alt text](screenshots/1.png)
+
 ## Social Impact
 
 Earlier, the agrarian specialists, or as we call them farmers, just had the information passed down to them from their ancestors that assisted them with managing the entire plant-related illnesses. However restricted, farmers or agrarian specialists had the option to move gradually up through the different seasons and unforgiving and conflicting weather patterns.
