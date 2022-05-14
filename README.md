@@ -1,6 +1,6 @@
 # Planto
 
-Watch the video [here]()
+Watch the video [here](https://youtu.be/-r9AGwJgFtA)
 
 For instructions on how to run the project locally, click [here](#Instructions-to-run-the-project-locally)
 
